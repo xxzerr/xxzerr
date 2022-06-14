@@ -3,6 +3,9 @@
 <div align="center">
   Hi all 👋, I'm Reyhan Daffa Fachreza a random 15 years old kid who code for fun. Thanks for visiting my GitHub ^_^
 
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=rizxyu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rizxyu" /> 
+
+  <div align="left">
+  <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=xxzerr&style=flat"
+    alt="profile views" /> 
   </p>
+
