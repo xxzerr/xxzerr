@@ -1,3 +1,1 @@
-![Reyhan Daffa's card name](https://cardivo.vercel.app/api?name=[Reyhan Daffa]&description=[Welcome To My GitHub 😁]&image=[https://avatars.githubusercontent.com/u/106092370]&backgroundColor=%23222C35&instagram=xx.zerrr&github=xxzerr&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
-![](https://komarev.com/ghpvc/?username=xxzerr&style=flat)
-    alt="xxzerr" /> 
+![Angga Ady Pratama card name](https://cardivo.vercel.app/api?name=Angga%20Ady%20Pratama&description=A%20passionate%20frontend%20developer.&image=https://avatars.githubusercontent.com/u/46337871?v=4&backgroundColor=%23222C35&instagram=anggaadypratama&linkedin=angga%20ady%20pratama&github=anggaadypratama&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
